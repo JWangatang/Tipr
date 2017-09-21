@@ -1,8 +1,8 @@
-#Tipr
+# Tipr
 ###### iOS/Swift
 September 2016
 
-###Features:
+### Features:
 - Enter Bill
 - Adjust Tax % with Segmented Control and Slider
 - Split total with people
